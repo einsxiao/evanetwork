@@ -1,0 +1,2 @@
+#!/bin/sh
+python $EVAWIZ_ROOT/tsusyd/eva-mail.pyc $@

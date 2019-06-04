@@ -1,0 +1,3 @@
+#!/bin/bash
+#source $EVAWIZ_ROOT/virtualenv/evawiz/bin/activate
+python3 $EVAWIZ_ROOT/evawizd/eva-path.pyc $@
